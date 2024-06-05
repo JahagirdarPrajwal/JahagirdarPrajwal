@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahagirdarprajwal&label=Profile%20views&color=0e75b6&style=flat" alt="jahagirdarprajwal" /> </p>
 
-- 🌱 I’m currently learning **rust and go**
+- 🌱 I’m currently learning **ML and rust**
 
-- 💬 Ask me about **flutter, dart, HTML, CSS, JS**
+- 💬 Ask me about **Machine Learning and Alogorithms **
 
 - 📫 How to reach me **jprajwal2004@gmail.com**
 
