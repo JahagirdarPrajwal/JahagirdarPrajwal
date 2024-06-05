@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML and rust**
 
-- 💬 Ask me about **Machine Learning and Alogorithms **
+- 💬 Ask me about **Machine Learning and Alogorithms**
 
 - 📫 How to reach me **jprajwal2004@gmail.com**
 
